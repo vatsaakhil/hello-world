@@ -1,0 +1,256 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,total_goals,year,month,day,weekday,home_win
+1954-12-18,Sri Lanka,Pakistan,1,2,Friendly,Kolkata,India,True,3,1954,12,18,5,False
+1954-12-19,India,Burma,2,1,Friendly,Kolkata,India,False,3,1954,12,19,6,True
+1954-12-21,India,Sri Lanka,1,1,Friendly,Kolkata,India,False,2,1954,12,21,1,Draw
+1954-12-23,Burma,Pakistan,1,1,Friendly,Kolkata,India,True,2,1954,12,23,3,Draw
+1954-12-25,Burma,Sri Lanka,1,2,Friendly,Kolkata,India,True,3,1954,12,25,5,False
+1956-06-17,India,China PR,0,1,Friendly,New Delhi,India,False,1,1956,6,17,6,False
+1956-12-29,India,Yugoslavia,0,3,Friendly,Kolkata,India,False,3,1956,12,29,5,False
+1959-12-05,Iran,Israel,3,0,AFC Asian Cup qualification,Ernakulam,India,True,3,1959,12,5,5,True
+1959-12-06,India,Pakistan,1,0,AFC Asian Cup qualification,Ernakulam,India,False,1,1959,12,6,6,True
+1959-12-08,India,Israel,1,3,AFC Asian Cup qualification,Ernakulam,India,False,4,1959,12,8,1,False
+1959-12-10,Israel,Pakistan,2,0,AFC Asian Cup qualification,Ernakulam,India,True,2,1959,12,10,3,True
+1959-12-12,Israel,Iran,1,1,AFC Asian Cup qualification,Ernakulam,India,True,2,1959,12,12,5,Draw
+1959-12-17,Pakistan,Israel,2,2,AFC Asian Cup qualification,Ernakulam,India,True,4,1959,12,17,3,Draw
+1982-02-16,India,China PR,1,1,Nehru Cup,Kolkata,India,False,2,1982,2,16,1,Draw
+1982-02-18,India,South Korea,2,2,Nehru Cup,Kolkata,India,False,4,1982,2,18,3,Draw
+1982-02-20,South Korea,Uruguay,2,2,Nehru Cup,Kolkata,India,True,4,1982,2,20,5,Draw
+1982-02-22,China PR,Uruguay,0,0,Nehru Cup,Kolkata,India,True,0,1982,2,22,0,Draw
+1982-02-25,India,Uruguay,1,3,Nehru Cup,Kolkata,India,False,4,1982,2,25,3,False
+1982-03-01,China PR,South Korea,1,1,Nehru Cup,Kolkata,India,True,2,1982,3,1,0,Draw
+1982-03-04,China PR,Uruguay,0,2,Nehru Cup,Kolkata,India,True,2,1982,3,4,3,False
+1984-01-11,India,Poland,1,2,Nehru Cup,Kolkata,India,False,3,1984,1,11,2,False
+1984-01-14,India,Argentina,0,1,Nehru Cup,Kolkata,India,False,1,1984,1,14,5,False
+1984-01-15,China PR,Poland,0,1,Nehru Cup,Kolkata,India,True,1,1984,1,15,6,False
+1984-01-17,Argentina,Poland,1,1,Nehru Cup,Kolkata,India,True,2,1984,1,17,1,Draw
+1984-01-20,Argentina,China PR,0,1,Nehru Cup,Kolkata,India,True,1,1984,1,20,4,False
+1984-01-25,India,China PR,0,3,Nehru Cup,Kolkata,India,False,3,1984,1,25,2,False
+1984-01-27,China PR,Poland,0,1,Nehru Cup,Kolkata,India,True,1,1984,1,27,4,False
+1984-10-10,South Korea,Yemen,6,0,AFC Asian Cup qualification,Kolkata,India,True,6,1984,10,10,2,True
+1984-10-11,Malaysia,Pakistan,5,0,AFC Asian Cup qualification,Kolkata,India,True,5,1984,10,11,3,True
+1984-10-12,India,Yemen,4,0,AFC Asian Cup qualification,Kolkata,India,False,4,1984,10,12,4,True
+1984-10-13,South Korea,Pakistan,6,0,AFC Asian Cup qualification,Kolkata,India,True,6,1984,10,13,5,True
+1984-10-14,India,Malaysia,2,1,AFC Asian Cup qualification,Kolkata,India,False,3,1984,10,14,6,True
+1984-10-15,Pakistan,Yemen,4,1,AFC Asian Cup qualification,Kolkata,India,True,5,1984,10,15,0,True
+1984-10-16,South Korea,Malaysia,0,0,AFC Asian Cup qualification,Kolkata,India,True,0,1984,10,16,1,Draw
+1984-10-17,India,Pakistan,2,0,AFC Asian Cup qualification,Kolkata,India,False,2,1984,10,17,2,True
+1984-10-18,Malaysia,Yemen,4,1,AFC Asian Cup qualification,Kolkata,India,True,5,1984,10,18,3,True
+1984-10-19,India,South Korea,0,1,AFC Asian Cup qualification,Kolkata,India,False,1,1984,10,19,4,False
+1985-01-20,Iran,Yugoslavia,1,3,Nehru Cup,Ernakulam,India,True,4,1985,1,20,6,False
+1985-01-21,China PR,Russia,2,3,Nehru Cup,Ernakulam,India,True,5,1985,1,21,0,False
+1985-01-25,Russia,Yugoslavia,1,2,Nehru Cup,Ernakulam,India,True,3,1985,1,25,4,False
+1985-01-28,Iran,Russia,0,2,Nehru Cup,Ernakulam,India,True,2,1985,1,28,0,False
+1985-01-29,China PR,Yugoslavia,1,1,Nehru Cup,Ernakulam,India,True,2,1985,1,29,1,Draw
+1985-01-31,India,Morocco,0,1,Nehru Cup,Ernakulam,India,False,1,1985,1,31,3,False
+1985-02-02,Morocco,Russia,0,1,Nehru Cup,Ernakulam,India,True,1,1985,2,2,5,False
+1985-02-04,Yugoslavia,Russia,1,2,Nehru Cup,Ernakulam,India,True,3,1985,2,4,0,False
+1985-04-06,India,Indonesia,1,1,FIFA World Cup qualification,Kolkata,India,False,2,1985,4,6,5,Draw
+1985-04-09,India,Thailand,1,1,FIFA World Cup qualification,Kolkata,India,False,2,1985,4,9,1,Draw
+1985-04-12,India,Bangladesh,2,1,FIFA World Cup qualification,Kolkata,India,False,3,1985,4,12,4,True
+1985-05-05,Iraq,Qatar,2,1,FIFA World Cup qualification,Kolkata,India,True,3,1985,5,5,6,True
+1986-01-25,India,China PR,0,0,Nehru Cup,Thiruvananthapuram,India,False,0,1986,1,25,5,Draw
+1986-01-28,China PR,Peru,3,1,Nehru Cup,Thiruvananthapuram,India,True,4,1986,1,28,1,True
+1986-01-30,India,Peru,0,1,Nehru Cup,Thiruvananthapuram,India,False,1,1986,1,30,3,False
+1987-01-14,India,China PR,1,1,Nehru Cup,Kozhikode,India,False,2,1987,1,14,2,Draw
+1987-01-27,Nigeria,Syria,1,0,Nehru Cup,Kozhikode,India,True,1,1987,1,27,1,True
+1989-01-27,India,North Korea,1,2,Nehru Cup,Margao,India,False,3,1989,1,27,4,False
+1991-01-11,Russia,Zambia,4,0,Nehru Cup,Thiruvananthapuram,India,True,4,1991,1,11,4,True
+1991-01-14,Hungary,Russia,1,1,Nehru Cup,Thiruvananthapuram,India,True,2,1991,1,14,0,Draw
+1991-01-17,India,Hungary,1,2,Nehru Cup,Thiruvananthapuram,India,False,3,1991,1,17,3,False
+1991-01-20,India,Zambia,1,0,Nehru Cup,Thiruvananthapuram,India,False,1,1991,1,20,6,True
+1991-01-23,Hungary,Zambia,4,1,Nehru Cup,Thiruvananthapuram,India,True,5,1991,1,23,2,True
+1991-01-24,India,Russia,1,3,Nehru Cup,Thiruvananthapuram,India,False,4,1991,1,24,3,False
+1992-05-11,Iran,Pakistan,7,0,AFC Asian Cup qualification,Kolkata,India,True,7,1992,5,11,0,True
+1992-05-15,India,Iran,0,3,AFC Asian Cup qualification,Kolkata,India,False,3,1992,5,15,4,False
+1993-01-19,North Korea,Bolivia,2,1,Nehru Cup,Chennai,India,True,3,1993,1,19,1,True
+1993-01-20,India,Finland,0,0,Nehru Cup,Chennai,India,False,0,1993,1,20,2,Draw
+1993-01-22,Cameroon,Finland,0,0,Nehru Cup,Chennai,India,True,0,1993,1,22,4,Draw
+1993-01-24,India,Cameroon,1,1,Nehru Cup,Chennai,India,False,2,1993,1,24,6,Draw
+1993-01-25,Bolivia,Russia,1,2,Nehru Cup,Chennai,India,True,3,1993,1,25,0,False
+1993-01-26,India,Finland,0,2,Nehru Cup,Chennai,India,False,2,1993,1,26,1,False
+1993-01-28,Cameroon,Finland,2,0,Nehru Cup,Chennai,India,True,2,1993,1,28,3,True
+1993-01-30,India,Cameroon,2,2,Nehru Cup,Chennai,India,False,4,1993,1,30,5,Draw
+1993-01-31,North Korea,Finland,3,2,Nehru Cup,Chennai,India,True,5,1993,1,31,6,True
+1995-03-08,Iraq,Uzbekistan,3,1,Nehru Cup,Kolkata,India,True,4,1995,3,8,2,True
+1995-03-10,India,Thailand,0,5,Nehru Cup,Kolkata,India,False,5,1995,3,10,4,False
+1995-03-12,India,Iraq,1,1,Nehru Cup,Kolkata,India,False,2,1995,3,12,6,Draw
+1995-03-14,India,Uzbekistan,1,0,Nehru Cup,Kolkata,India,False,1,1995,3,14,1,True
+1995-03-14,Iraq,Thailand,3,1,Nehru Cup,Kolkata,India,True,4,1995,3,14,1,True
+1995-03-16,Thailand,Uzbekistan,0,1,Nehru Cup,Kolkata,India,True,1,1995,3,16,3,False
+1997-03-30,China PR,Iraq,0,2,Nehru Cup,Kochi,India,True,2,1997,3,30,6,False
+1997-04-01,India,China PR,0,0,Nehru Cup,Kochi,India,False,0,1997,4,1,1,Draw
+1997-04-03,China PR,Ghana,0,0,Nehru Cup,Kochi,India,True,0,1997,4,3,3,Draw
+1997-04-06,India,Iraq,0,1,Nehru Cup,Kochi,India,False,1,1997,4,6,6,False
+1997-04-08,India,Ghana,2,2,Nehru Cup,Kochi,India,False,4,1997,4,8,1,Draw
+1997-04-10,India,Iraq,1,1,Nehru Cup,Kochi,India,False,2,1997,4,10,3,Draw
+1997-04-11,India,China PR,1,2,Nehru Cup,Kochi,India,False,3,1997,4,11,4,False
+1998-11-16,India,Uzbekistan,0,0,Friendly,New Delhi,India,False,0,1998,11,16,0,Draw
+1998-11-19,India,Uzbekistan,0,4,Friendly,Kolkata,India,False,4,1998,11,19,3,False
+1999-04-22,India,Bangladesh,0,0,SAFF Cup,Margao,India,False,0,1999,4,22,3,Draw
+1999-04-23,Sri Lanka,Maldives,0,0,SAFF Cup,Margao,India,True,0,1999,4,23,4,Draw
+1999-04-24,Pakistan,Bangladesh,0,4,SAFF Cup,Margao,India,True,4,1999,4,24,5,False
+1999-04-25,Sri Lanka,Nepal,2,3,SAFF Cup,Margao,India,True,5,1999,4,25,6,False
+1999-04-26,India,Pakistan,2,0,SAFF Cup,Margao,India,False,2,1999,4,26,0,True
+1999-04-27,Nepal,Maldives,2,3,SAFF Cup,Margao,India,True,5,1999,4,27,1,False
+1999-04-29,Bangladesh,Nepal,2,1,SAFF Cup,Margao,India,True,3,1999,4,29,3,True
+1999-04-29,India,Maldives,2,1,SAFF Cup,Margao,India,False,3,1999,4,29,3,True
+1999-05-01,India,Bangladesh,2,0,SAFF Cup,Margao,India,False,2,1999,5,1,5,True
+1999-05-01,Maldives,Nepal,2,0,SAFF Cup,Margao,India,True,2,1999,5,1,5,True
+2001-01-11,Romania,Jordan,0,1,Millennium Cup,Margao,India,True,1,2001,1,11,3,False
+2001-01-12,Bosnia and Herzegovina,Bangladesh,2,0,Millennium Cup,Kochi,India,True,2,2001,1,12,4,True
+2001-01-12,Uzbekistan,Bahrain,5,0,Millennium Cup,Kolkata,India,True,5,2001,1,12,4,True
+2001-01-13,India,Iceland,0,3,Millennium Cup,Kochi,India,False,3,2001,1,13,5,False
+2001-01-14,Romania,Hong Kong,4,2,Millennium Cup,Margao,India,True,6,2001,1,14,6,True
+2001-01-14,Serbia,Bosnia and Herzegovina,1,1,Millennium Cup,Kochi,India,True,2,2001,1,14,6,Draw
+2001-01-15,Chile,Bahrain,2,0,Millennium Cup,Kolkata,India,True,2,2001,1,15,0,True
+2001-01-16,Bangladesh,Serbia,1,4,Millennium Cup,Kochi,India,True,5,2001,1,16,1,False
+2001-01-16,Hong Kong,Jordan,0,2,Millennium Cup,Margao,India,True,2,2001,1,16,1,False
+2001-01-17,Chile,Uzbekistan,2,0,Millennium Cup,Kolkata,India,True,2,2001,1,17,2,True
+2001-01-20,Chile,Iceland,2,0,Millennium Cup,Kolkata,India,True,2,2001,1,20,5,True
+2001-01-20,Serbia,Romania,2,0,Millennium Cup,Margao,India,True,2,2001,1,20,5,True
+2001-01-22,Bosnia and Herzegovina,Chile,1,0,Millennium Cup,Kolkata,India,True,1,2001,1,22,0,True
+2001-01-23,Serbia,Japan,1,0,Millennium Cup,Kolkata,India,True,1,2001,1,23,1,True
+2001-01-25,Bosnia and Herzegovina,Serbia,0,2,Millennium Cup,Kolkata,India,True,2,2001,1,25,3,False
+2001-04-08,India,United Arab Emirates,1,0,FIFA World Cup qualification,Bangalore,India,False,1,2001,4,8,6,True
+2001-04-15,India,Yemen,1,1,FIFA World Cup qualification,Bangalore,India,False,2,2001,4,15,6,Draw
+2001-05-20,India,Brunei,5,0,FIFA World Cup qualification,Bangalore,India,False,5,2001,5,20,6,True
+2003-03-30,India,North Korea,1,1,AFC Asian Cup qualification,Margao,India,False,2,2003,3,30,6,Draw
+2003-10-22,India,Rwanda,3,1,Friendly,Hyderabad,India,False,4,2003,10,22,2,True
+2003-10-23,Burkina Faso,Zimbabwe,1,4,Friendly,Hyderabad,India,True,5,2003,10,23,3,False
+2003-10-29,India,Zimbabwe,5,3,Friendly,Hyderabad,India,False,8,2003,10,29,2,True
+2003-10-31,Rwanda,Zimbabwe,2,2,Friendly,Hyderabad,India,True,4,2003,10,31,4,Draw
+2004-02-18,India,Singapore,1,0,FIFA World Cup qualification,Margao,India,False,1,2004,2,18,2,True
+2004-03-31,India,Oman,1,5,FIFA World Cup qualification,Kochi,India,False,6,2004,3,31,2,False
+2004-09-08,India,Japan,0,4,FIFA World Cup qualification,Kolkata,India,False,4,2004,9,8,2,False
+2006-03-01,India,Yemen,0,3,AFC Asian Cup qualification,New Delhi,India,False,3,2006,3,1,2,False
+2006-08-16,India,Saudi Arabia,0,3,AFC Asian Cup qualification,Kolkata,India,False,3,2006,8,16,2,False
+2006-10-11,India,Japan,0,3,AFC Asian Cup qualification,Bangalore,India,False,3,2006,10,11,2,False
+2007-08-17,India,Cambodia,6,0,Nehru Cup,New Delhi,India,False,6,2007,8,17,4,True
+2007-08-18,Bangladesh,Syria,0,2,Nehru Cup,New Delhi,India,True,2,2007,8,18,5,False
+2007-08-19,Kyrgyzstan,Cambodia,4,3,Nehru Cup,New Delhi,India,True,7,2007,8,19,6,True
+2007-08-20,India,Bangladesh,1,0,Nehru Cup,New Delhi,India,False,1,2007,8,20,0,True
+2007-08-21,Syria,Kyrgyzstan,4,1,Nehru Cup,New Delhi,India,True,5,2007,8,21,1,True
+2007-08-22,Bangladesh,Cambodia,1,1,Nehru Cup,New Delhi,India,True,2,2007,8,22,2,Draw
+2007-08-23,India,Syria,2,3,Nehru Cup,New Delhi,India,False,5,2007,8,23,3,False
+2007-08-24,Bangladesh,Kyrgyzstan,0,3,Nehru Cup,New Delhi,India,True,3,2007,8,24,4,False
+2007-08-25,Cambodia,Syria,1,5,Nehru Cup,New Delhi,India,True,6,2007,8,25,5,False
+2007-08-26,India,Kyrgyzstan,3,0,Nehru Cup,New Delhi,India,False,3,2007,8,26,6,True
+2007-08-29,India,Syria,1,0,Nehru Cup,New Delhi,India,False,1,2007,8,29,2,True
+2007-10-30,India,Lebanon,2,2,FIFA World Cup qualification,Margao,India,False,4,2007,10,30,1,Draw
+2007-11-02,Bhutan,Tibet,3,0,Friendly,Gangtok,India,True,3,2007,11,2,4,True
+2008-05-24,India,Chinese Taipei,3,0,Friendly,Margao,India,False,3,2008,5,24,5,True
+2008-05-27,India,Chinese Taipei,2,2,Friendly,Chennai,India,False,4,2008,5,27,1,Draw
+2008-07-22,India,Malaysia,1,1,Friendly,Hyderabad,India,False,2,2008,7,22,1,Draw
+2008-07-30,India,Afghanistan,1,0,AFC Challenge Cup,Hyderabad,India,False,1,2008,7,30,2,True
+2008-07-30,Turkmenistan,Tajikistan,0,0,AFC Challenge Cup,Hyderabad,India,True,0,2008,7,30,2,Draw
+2008-07-31,Burma,Nepal,3,0,AFC Challenge Cup,Hyderabad,India,True,3,2008,7,31,3,True
+2008-07-31,North Korea,Sri Lanka,3,0,AFC Challenge Cup,Hyderabad,India,True,3,2008,7,31,3,True
+2008-08-01,Afghanistan,Turkmenistan,0,5,AFC Challenge Cup,Hyderabad,India,True,5,2008,8,1,4,False
+2008-08-01,India,Tajikistan,1,1,AFC Challenge Cup,Hyderabad,India,False,2,2008,8,1,4,Draw
+2008-08-02,Nepal,North Korea,0,1,AFC Challenge Cup,Hyderabad,India,True,1,2008,8,2,5,False
+2008-08-02,Sri Lanka,Burma,1,3,AFC Challenge Cup,Hyderabad,India,True,4,2008,8,2,5,False
+2008-08-03,Afghanistan,Tajikistan,0,4,AFC Challenge Cup,Hyderabad,India,True,4,2008,8,3,6,False
+2008-08-03,India,Turkmenistan,2,1,AFC Challenge Cup,Hyderabad,India,False,3,2008,8,3,6,True
+2008-08-04,North Korea,Burma,1,0,AFC Challenge Cup,Hyderabad,India,True,1,2008,8,4,0,True
+2008-08-04,Nepal,Sri Lanka,3,0,AFC Challenge Cup,Hyderabad,India,True,3,2008,8,4,0,True
+2008-08-07,India,Burma,1,0,AFC Challenge Cup,Hyderabad,India,False,1,2008,8,7,3,True
+2008-08-07,North Korea,Tajikistan,0,1,AFC Challenge Cup,Hyderabad,India,True,1,2008,8,7,3,False
+2008-08-13,Burma,North Korea,0,4,AFC Challenge Cup,New Delhi,India,True,4,2008,8,13,2,False
+2008-08-13,India,Tajikistan,4,1,AFC Challenge Cup,New Delhi,India,False,5,2008,8,13,2,True
+2009-08-19,India,Lebanon,0,1,Nehru Cup,New Delhi,India,False,1,2009,8,19,2,False
+2009-08-20,Syria,Kyrgyzstan,2,0,Nehru Cup,New Delhi,India,True,2,2009,8,20,3,True
+2009-08-22,Sri Lanka,Lebanon,4,3,Nehru Cup,New Delhi,India,True,7,2009,8,22,5,True
+2009-08-23,India,Kyrgyzstan,2,1,Nehru Cup,New Delhi,India,False,3,2009,8,23,6,True
+2009-08-24,Syria,Sri Lanka,4,0,Nehru Cup,New Delhi,India,True,4,2009,8,24,0,True
+2009-08-25,Kyrgyzstan,Lebanon,1,1,Nehru Cup,New Delhi,India,True,2,2009,8,25,1,Draw
+2009-08-26,India,Sri Lanka,3,1,Nehru Cup,New Delhi,India,False,4,2009,8,26,2,True
+2009-08-27,Syria,Lebanon,1,0,Nehru Cup,New Delhi,India,True,1,2009,8,27,3,True
+2009-08-28,Sri Lanka,Kyrgyzstan,1,4,Nehru Cup,New Delhi,India,True,5,2009,8,28,4,False
+2009-08-29,India,Syria,0,1,Nehru Cup,New Delhi,India,False,1,2009,8,29,5,False
+2009-08-31,India,Syria,1,1,Nehru Cup,New Delhi,India,False,2,2009,8,31,0,Draw
+2010-09-08,India,Thailand,1,2,Friendly,New Delhi,India,False,3,2010,9,8,2,False
+2010-09-15,India,Namibia,2,0,Friendly,New Delhi,India,False,2,2010,9,15,2,True
+2010-10-04,India,Hong Kong,0,1,Friendly,Pune,India,False,1,2010,10,4,0,False
+2010-10-08,India,Vietnam,3,1,Friendly,Pune,India,False,4,2010,10,8,4,True
+2010-10-13,India,Yemen,3,6,Friendly,Pune,India,False,9,2010,10,13,2,False
+2011-03-23,Bhutan,Afghanistan,0,3,AFC Challenge Cup qualification,Gurgaon,India,True,3,2011,3,23,2,False
+2011-03-25,Afghanistan,Bhutan,2,0,AFC Challenge Cup qualification,Gurgaon,India,True,2,2011,3,25,4,True
+2011-07-28,India,United Arab Emirates,2,2,FIFA World Cup qualification,New Delhi,India,False,4,2011,7,28,3,Draw
+2011-09-02,Argentina,Venezuela,1,0,Friendly,Kolkata,India,True,1,2011,9,2,4,True
+2011-11-13,India,Malaysia,1,1,Friendly,Guwahati,India,False,2,2011,11,13,6,Draw
+2011-11-16,India,Malaysia,3,2,Friendly,Kolkata,India,False,5,2011,11,16,2,True
+2011-11-29,India,Zambia,0,5,Friendly,Margao,India,False,5,2011,11,29,1,False
+2011-12-02,Bangladesh,Pakistan,0,0,SAFF Cup,New Delhi,India,True,0,2011,12,2,4,Draw
+2011-12-02,Maldives,Nepal,1,1,SAFF Cup,New Delhi,India,True,2,2011,12,2,4,Draw
+2011-12-03,India,Afghanistan,1,1,SAFF Cup,New Delhi,India,False,2,2011,12,3,5,Draw
+2011-12-03,Sri Lanka,Bhutan,3,0,SAFF Cup,New Delhi,India,True,3,2011,12,3,5,True
+2011-12-04,Bangladesh,Nepal,0,1,SAFF Cup,New Delhi,India,True,1,2011,12,4,6,False
+2011-12-04,Maldives,Pakistan,0,0,SAFF Cup,New Delhi,India,True,0,2011,12,4,6,Draw
+2011-12-05,India,Bhutan,5,0,SAFF Cup,New Delhi,India,False,5,2011,12,5,0,True
+2011-12-05,Sri Lanka,Afghanistan,1,3,SAFF Cup,New Delhi,India,True,4,2011,12,5,0,False
+2011-12-06,Maldives,Bangladesh,3,1,SAFF Cup,New Delhi,India,True,4,2011,12,6,1,True
+2011-12-06,Pakistan,Nepal,1,1,SAFF Cup,New Delhi,India,True,2,2011,12,6,1,Draw
+2011-12-07,Bhutan,Afghanistan,1,8,SAFF Cup,New Delhi,India,True,9,2011,12,7,2,False
+2011-12-07,India,Sri Lanka,3,0,SAFF Cup,New Delhi,India,False,3,2011,12,7,2,True
+2011-12-09,Afghanistan,Nepal,1,0,SAFF Cup,New Delhi,India,True,1,2011,12,9,4,True
+2011-12-09,India,Maldives,3,1,SAFF Cup,New Delhi,India,False,4,2011,12,9,4,True
+2011-12-11,India,Afghanistan,4,0,SAFF Cup,New Delhi,India,False,4,2011,12,11,6,True
+2012-08-22,India,Syria,2,1,Nehru Cup,New Delhi,India,False,3,2012,8,22,2,True
+2012-08-23,Maldives,Nepal,2,1,Nehru Cup,New Delhi,India,True,3,2012,8,23,3,True
+2012-08-24,Syria,Cameroon,2,2,Nehru Cup,New Delhi,India,True,4,2012,8,24,4,Draw
+2012-08-25,India,Maldives,3,0,Nehru Cup,New Delhi,India,False,3,2012,8,25,5,True
+2012-08-26,Nepal,Cameroon,0,5,Nehru Cup,New Delhi,India,True,5,2012,8,26,6,False
+2012-08-27,Maldives,Syria,2,1,Nehru Cup,New Delhi,India,True,3,2012,8,27,0,True
+2012-08-28,India,Nepal,0,0,Nehru Cup,New Delhi,India,False,0,2012,8,28,1,Draw
+2012-08-29,Cameroon,Maldives,3,1,Nehru Cup,New Delhi,India,True,4,2012,8,29,2,True
+2012-08-30,Syria,Nepal,2,0,Nehru Cup,New Delhi,India,True,2,2012,8,30,3,True
+2012-08-31,India,Cameroon,0,1,Nehru Cup,New Delhi,India,False,1,2012,8,31,4,False
+2012-09-02,India,Cameroon,2,2,Nehru Cup,New Delhi,India,False,4,2012,9,2,6,Draw
+2013-02-06,India,Palestine,2,4,Friendly,Kochi,India,False,6,2013,2,6,2,False
+2013-11-15,India,Philippines,1,1,Friendly,Siliguri,India,False,2,2013,11,15,4,Draw
+2013-11-19,India,Nepal,2,0,Friendly,Siliguri,India,False,2,2013,11,19,1,True
+2014-03-05,India,Bangladesh,2,2,Friendly,Margao,India,False,4,2014,3,5,2,Draw
+2014-10-06,India,Palestine,2,3,Friendly,Siliguri,India,False,5,2014,10,6,0,False
+2015-03-12,India,Nepal,2,0,FIFA World Cup qualification,Guwahati,India,False,2,2015,3,12,3,True
+2015-06-11,India,Oman,1,2,FIFA World Cup qualification,Bangalore,India,False,3,2015,6,11,3,False
+2015-08-31,India,Nepal,0,0,Friendly,Pune,India,False,0,2015,8,31,0,Draw
+2015-09-08,India,Iran,0,3,FIFA World Cup qualification,Bangalore,India,False,3,2015,9,8,1,False
+2015-11-12,India,Guam,1,0,FIFA World Cup qualification,Bangalore,India,False,1,2015,11,12,3,True
+2015-12-23,Nepal,Sri Lanka,0,1,SAFF Cup,Thiruvananthapuram,India,True,1,2015,12,23,2,False
+2015-12-24,Afghanistan,Bangladesh,4,0,SAFF Cup,Thiruvananthapuram,India,True,4,2015,12,24,3,True
+2015-12-24,Maldives,Bhutan,3,1,SAFF Cup,Thiruvananthapuram,India,True,4,2015,12,24,3,True
+2015-12-25,India,Sri Lanka,2,0,SAFF Cup,Thiruvananthapuram,India,False,2,2015,12,25,4,True
+2015-12-26,Bangladesh,Maldives,1,3,SAFF Cup,Thiruvananthapuram,India,True,4,2015,12,26,5,False
+2015-12-26,Bhutan,Afghanistan,0,3,SAFF Cup,Thiruvananthapuram,India,True,3,2015,12,26,5,False
+2015-12-27,India,Nepal,4,1,SAFF Cup,Thiruvananthapuram,India,False,5,2015,12,27,6,True
+2015-12-28,Afghanistan,Maldives,4,1,SAFF Cup,Thiruvananthapuram,India,True,5,2015,12,28,0,True
+2015-12-28,Bhutan,Bangladesh,0,3,SAFF Cup,Thiruvananthapuram,India,True,3,2015,12,28,0,False
+2015-12-31,Afghanistan,Sri Lanka,5,0,SAFF Cup,Thiruvananthapuram,India,True,5,2015,12,31,3,True
+2015-12-31,India,Maldives,3,2,SAFF Cup,Thiruvananthapuram,India,False,5,2015,12,31,3,True
+2016-01-03,India,Afghanistan,2,1,SAFF Cup,Thiruvananthapuram,India,False,3,2016,1,3,6,True
+2016-03-29,India,Turkmenistan,1,2,FIFA World Cup qualification,Kochi,India,False,3,2016,3,29,1,False
+2016-06-07,India,Laos,6,1,AFC Asian Cup qualification,Guwahati,India,False,7,2016,6,7,1,True
+2016-09-03,India,Puerto Rico,4,1,Friendly,Mumbai,India,False,5,2016,9,3,5,True
+2017-06-06,India,Nepal,2,0,Friendly,Mumbai,India,False,2,2017,6,6,1,True
+2017-06-13,India,Kyrgyzstan,1,0,AFC Asian Cup qualification,Bangalore,India,False,1,2017,6,13,1,True
+2017-08-19,India,Mauritius,2,1,Friendly,Mumbai,India,False,3,2017,8,19,5,True
+2017-08-22,Mauritius,Saint Kitts and Nevis,1,1,Friendly,Mumbai,India,True,2,2017,8,22,1,Draw
+2017-08-24,India,Saint Kitts and Nevis,1,1,Friendly,Mumbai,India,False,2,2017,8,24,3,Draw
+2017-10-11,India,Macau,4,1,AFC Asian Cup qualification,Bangalore,India,False,5,2017,10,11,2,True
+2017-11-14,India,Burma,2,2,AFC Asian Cup qualification,Margao,India,False,4,2017,11,14,1,Draw
+2018-06-01,India,Chinese Taipei,5,0,Intercontinental Cup,Mumbai,India,False,5,2018,6,1,4,True
+2018-06-02,Kenya,New Zealand,2,1,Intercontinental Cup,Mumbai,India,True,3,2018,6,2,5,True
+2018-06-04,India,Kenya,3,0,Intercontinental Cup,Mumbai,India,False,3,2018,6,4,0,True
+2018-06-05,Chinese Taipei,New Zealand,0,1,Intercontinental Cup,Mumbai,India,True,1,2018,6,5,1,False
+2018-06-07,India,New Zealand,1,2,Intercontinental Cup,Mumbai,India,False,3,2018,6,7,3,False
+2018-06-08,Chinese Taipei,Kenya,0,4,Intercontinental Cup,Mumbai,India,True,4,2018,6,8,4,False
+2018-06-10,India,Kenya,2,0,Intercontinental Cup,Mumbai,India,False,2,2018,6,10,6,True
+2019-07-07,India,Tajikistan,2,4,Intercontinental Cup,Ahmedabad,India,False,6,2019,7,7,6,False
+2019-07-08,Syria,North Korea,5,2,Intercontinental Cup,Ahmedabad,India,True,7,2019,7,8,0,True
+2019-07-10,Tajikistan,Syria,2,0,Intercontinental Cup,Ahmedabad,India,True,2,2019,7,10,2,True
+2019-07-13,India,North Korea,2,5,Intercontinental Cup,Ahmedabad,India,False,7,2019,7,13,5,False
+2019-07-15,North Korea,Tajikistan,1,0,Intercontinental Cup,Ahmedabad,India,True,1,2019,7,15,0,True
+2019-07-16,India,Syria,1,1,Intercontinental Cup,Ahmedabad,India,False,2,2019,7,16,1,Draw
+2019-07-19,Tajikistan,North Korea,0,1,Intercontinental Cup,Ahmedabad,India,True,1,2019,7,19,4,False
+2019-09-05,India,Oman,1,2,FIFA World Cup qualification,Guwahati,India,False,3,2019,9,5,3,False
+2019-10-15,India,Bangladesh,1,1,FIFA World Cup qualification,Kolkata,India,False,2,2019,10,15,1,Draw
